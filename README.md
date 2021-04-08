@@ -14,7 +14,7 @@ Consume created Pipeline and Deploy it
 
 
 ## Architectural Diagram
-*TODO*: Provide an architectual diagram of the project and give an introduction of each step.
+![alt text](https://github.com/NikitaMahajan19/MachineLearning/blob/master/image/architecture diagram.JPG)
 
 ## Key Steps
 *TODO*: Write a short discription of the key steps. Remeber to include all the screencasts required to demonstrate key steps. 
