@@ -17,14 +17,41 @@ Consume created Pipeline and Deploy it
 ![alt text](https://github.com/NikitaMahajan19/Operationalizing-Machine-Learning/blob/master/image/architecture%20diagram.JPG)
 
 ## Key Steps
-### 1. Registered Datset
+### 1. Registered Dataset
 
 Following Dataset is used for the project
 
 ![alt text](https://github.com/NikitaMahajan19/Operationalizing-Machine-Learning/blob/master/image/Registered%20Dataset.JPG)
 
-### 2. 
+### 2. Automated ML Experiment
 
+I created an Automated ML Experiment on Bank Marketing dataset with target column as 'y'.For compute cluster I have used Standard_DS12_v2 and 1 as the minimum number of nodes.Experiment is un using classification. Details of the same are shown in the image below.
+
+![alt text](https://github.com/NikitaMahajan19/Operationalizing-Machine-Learning/blob/master/image/auto%20ml%20run.JPG)
+
+### 3. Deploy the best run model
+
+I deployed the best ru model using Azure Container Instance with Authentication enabled.
+![alt text](https://github.com/NikitaMahajan19/Operationalizing-Machine-Learning/blob/master/image/deployed%20model.JPG)
+
+The model is sucessfully deployed.
+![alt text](https://github.com/NikitaMahajan19/Operationalizing-Machine-Learning/blob/master/image/model%20healthy.JPG)
+
+### 4. Enabled logging
+
+In order to enable logging I made changes in logs.py file by putting configuration from Azure workspace and added it to the project and then  enabled application insights.
+![alt text](https://github.com/NikitaMahajan19/Operationalizing-Machine-Learning/blob/master/image/logs1.JPG)
+![alt text](https://github.com/NikitaMahajan19/Operationalizing-Machine-Learning/blob/master/image/logs2.JPG)
+
+### 5. Swagger Documentation
+
+
+I we configured swagger docs by installing swagger.json from endpoints and  changed the port number in bash script file and run it.
+![alt text](https://github.com/NikitaMahajan19/Operationalizing-Machine-Learning/blob/master/image/swagger.sh1.JPG)
+![alt text](https://github.com/NikitaMahajan19/Operationalizing-Machine-Learning/blob/master/image/swagger.sh%202.JPG)
+![alt text](https://github.com/NikitaMahajan19/Operationalizing-Machine-Learning/blob/master/image/sw.png)
+
+Then, I started the server by running serve.py file inorder to serve my project's swagger.json file.
 
 ## Screen Recording
 *TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
