@@ -31,7 +31,7 @@ I created an Automated ML Experiment on Bank Marketing dataset with target colum
 
 ### 3. Deploy the best run model
 
-I deployed the best ru model using Azure Container Instance with Authentication enabled.
+I deployed the best run model using Azure Container Instance with Authentication enabled.
 ![alt text](https://github.com/NikitaMahajan19/Operationalizing-Machine-Learning/blob/master/image/deployed%20model.JPG)
 
 The model is sucessfully deployed.
@@ -46,12 +46,34 @@ In order to enable logging I made changes in logs.py file by putting configurati
 ### 5. Swagger Documentation
 
 
-I we configured swagger docs by installing swagger.json from endpoints and  changed the port number in bash script file and run it.
+I configured swagger docs by installing swagger.json from endpoints and  changed the port number in bash script file and run it.
 ![alt text](https://github.com/NikitaMahajan19/Operationalizing-Machine-Learning/blob/master/image/swagger.sh1.JPG)
 ![alt text](https://github.com/NikitaMahajan19/Operationalizing-Machine-Learning/blob/master/image/swagger.sh%202.JPG)
 ![alt text](https://github.com/NikitaMahajan19/Operationalizing-Machine-Learning/blob/master/image/sw.png)
 
 Then, I started the server by running serve.py file inorder to serve my project's swagger.json file.
+
+![alt text](https://github.com/NikitaMahajan19/Operationalizing-Machine-Learning/blob/master/image/serve.JPG)
+![alt text](https://github.com/NikitaMahajan19/Operationalizing-Machine-Learning/blob/master/image/swagger%20output.png)
+![alt text](https://github.com/NikitaMahajan19/Operationalizing-Machine-Learning/blob/master/image/swagger1.png)
+![alt text](https://github.com/NikitaMahajan19/Operationalizing-Machine-Learning/blob/master/image/swagger2.png)
+
+### 6. Consume Endpoints
+
+Then I added  scoring_uri and key in endpoint.py from the deployed model consume section and ran the file.
+
+![alt text](https://github.com/NikitaMahajan19/Operationalizing-Machine-Learning/blob/master/image/endpoint%20file.JPG)
+![alt text](https://github.com/NikitaMahajan19/Operationalizing-Machine-Learning/blob/master/image/output.png)
+
+### 7. Create and publish Pipeline
+
+I uploaded the sample notebook provided to ous and made required changes in the cell and ran all the cells of the notebook. This created pipeline and the REST endpoint in Azure ML Studiothen is active status.
+
+![alt text](https://github.com/NikitaMahajan19/Operationalizing-Machine-Learning/blob/master/image/pipeline1.JPG)
+![alt text](https://github.com/NikitaMahajan19/Operationalizing-Machine-Learning/blob/master/image/pipeline2.JPG)
+
+
+
 
 ## Screen Recording
 *TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
