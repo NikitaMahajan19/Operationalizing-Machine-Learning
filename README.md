@@ -17,9 +17,7 @@ Consume created Pipeline and Deploy it
 ![alt text](https://github.com/NikitaMahajan19/Operationalizing-Machine-Learning/blob/master/image/architecture%20diagram.JPG)
 
 ## Key Steps
-*TODO*: Write a short discription of the key steps. Remeber to include all the screencasts required to demonstrate key steps. 
-
-*TODO* Remeber to provide screenshots of the `RunDetails` widget as well as a screenshot of the best model trained with it's parameters.
+#Registered Datset
 
 ## Screen Recording
 *TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
