@@ -70,6 +70,6 @@ I uploaded the sample notebook provided to us and made the required changes in t
 
 
 ## Screen Recording
-*TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
+Url for screencast video
 
 
