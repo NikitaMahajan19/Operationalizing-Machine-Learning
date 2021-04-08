@@ -14,7 +14,7 @@ Consume created Pipeline and Deploy it
 
 
 ## Architectural Diagram
-![alt text](https://github.com/NikitaMahajan19/MachineLearning/blob/master/image/architecture diagram.JPG)
+![alt text](https://github.com/NikitaMahajan19/Operationalizing-Machine-Learning/blob/master/image/architecture%20diagram.JPG)
 
 ## Key Steps
 *TODO*: Write a short discription of the key steps. Remeber to include all the screencasts required to demonstrate key steps. 
