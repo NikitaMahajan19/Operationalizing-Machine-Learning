@@ -17,7 +17,7 @@ Consume created Pipeline and Deploy it
 ![alt text](https://github.com/NikitaMahajan19/Operationalizing-Machine-Learning/blob/master/image/architecture%20diagram.JPG)
 
 ## Key Steps
-#Registered Datset
+# Registered Datset
 
 ## Screen Recording
 *TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
