@@ -53,7 +53,6 @@ I configured swagger docs by installing swagger.json from endpoints and  changed
 
 Then, I started the server by running serve.py file inorder to serve my project's swagger.json file.
 
-![alt text](https://github.com/NikitaMahajan19/Operationalizing-Machine-Learning/blob/master/image/serve.JPG)
 ![alt text](https://github.com/NikitaMahajan19/Operationalizing-Machine-Learning/blob/master/image/swagger%20output.png)
 ![alt text](https://github.com/NikitaMahajan19/Operationalizing-Machine-Learning/blob/master/image/swagger1.png)
 ![alt text](https://github.com/NikitaMahajan19/Operationalizing-Machine-Learning/blob/master/image/swagger2.png)
@@ -78,5 +77,4 @@ I uploaded the sample notebook provided to ous and made required changes in the 
 ## Screen Recording
 *TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
 
-## Standout Suggestions
-*TODO (Optional):* This is where you can provide information about any standout suggestions that you have attempted.
+
