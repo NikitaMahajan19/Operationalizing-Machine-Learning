@@ -70,6 +70,6 @@ I uploaded the sample notebook provided to us and made the required changes in t
 
 
 ## Screen Recording
-Url for screencast video
+link for screencast video
 
 ![link](https://drive.google.com/file/d/1TqjI3MxM867Ppd8Vn8z0S6qoqrkKO_qB/view?usp=sharing)
