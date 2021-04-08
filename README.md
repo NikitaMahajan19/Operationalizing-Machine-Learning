@@ -1,9 +1,17 @@
-*NOTE:* This file is a template that you can use to create the README for your project. The *TODO* comments below will highlight the information you should be sure to include.
 
 
-# Your Project Title Here
 
-*TODO:* Write an overview to your project.
+# Operationalizing Machine Learning
+
+In this project, I have used the Bank Marketing dataset. The aim is to operationalize machine learning by creating a model, deploying it and consuming it, so that we can get an endpoint that can easily be used by the end-user. Also I will be creating, publishing, and consuming a pipeline by creating a pipeline endpoint.
+
+Following step will be followed in this project:
+Creating Automated ML model
+Deploy the model
+Consuming the deployed model ( Swagger documentation)
+Create Pipeline
+Consume created Pipeline and Deploy it
+
 
 ## Architectural Diagram
 *TODO*: Provide an architectual diagram of the project and give an introduction of each step.
