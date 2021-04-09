@@ -73,3 +73,11 @@ I uploaded the sample notebook provided to us and made the required changes in t
 link for screencast video
 
 https://drive.google.com/file/d/1TqjI3MxM867Ppd8Vn8z0S6qoqrkKO_qB/view?usp=sharing
+
+## Standout Suggestions
+
+One of the issues while creating an AutoML run was the imbalanced data . This can lead to a biased prediction, which can negatively affect the model's accuracy. 
+So one of the suggestions is resolving data imbalance issues in the dataset can prevent the bais and could improve the model prediction even more.
+ 
+Second suggestion is enabling deep learning options when training the model, this can improve the accuracy.
+
