@@ -70,6 +70,9 @@ I uploaded the sample notebook provided to us and made the required changes in t
 ![alt text](https://github.com/NikitaMahajan19/Operationalizing-Machine-Learning/blob/master/image/pipeline1.JPG)
 ![alt text](https://github.com/NikitaMahajan19/Operationalizing-Machine-Learning/blob/master/image/pipeline2.JPG)
 
+ RunDetails Widget
+ ![alt text](https://github.com/NikitaMahajan19/Operationalizing-Machine-Learning/blob/master/image/run%20details.JPG)
+ 
 Pipeline overview
 ![alt text](https://github.com/NikitaMahajan19/Operationalizing-Machine-Learning/blob/master/image/pipeline%20overview.png)
 
