@@ -37,6 +37,10 @@ To enable logging I made changes in logs.py file by putting configuration from A
 ![alt text](https://github.com/NikitaMahajan19/Operationalizing-Machine-Learning/blob/master/image/logs1.JPG)
 ![alt text](https://github.com/NikitaMahajan19/Operationalizing-Machine-Learning/blob/master/image/logs2.JPG)
 
+By running logs.py file, Application insight is enabled
+![alt text](https://github.com/NikitaMahajan19/Operationalizing-Machine-Learning/blob/master/image/application%20insight%20enabled.png)
+
+
 ### 5. Swagger Documentation
 
 
@@ -66,6 +70,13 @@ I uploaded the sample notebook provided to us and made the required changes in t
 ![alt text](https://github.com/NikitaMahajan19/Operationalizing-Machine-Learning/blob/master/image/pipeline1.JPG)
 ![alt text](https://github.com/NikitaMahajan19/Operationalizing-Machine-Learning/blob/master/image/pipeline2.JPG)
 
+Pipeline overview
+![alt text](https://github.com/NikitaMahajan19/Operationalizing-Machine-Learning/blob/master/image/pipeline%20overview.png)
+
+![alt text](https://github.com/NikitaMahajan19/Operationalizing-Machine-Learning/blob/master/image/pipeline%20active.png)
+This is REST endpoint with active status
+
+![alt text](https://github.com/NikitaMahajan19/Operationalizing-Machine-Learning/blob/master/image/rest%20endpoint%20active.png)
 
 
 
